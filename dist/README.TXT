@@ -28,6 +28,8 @@ using Trades recorded past 15' minutes.
 It also calls calculation GBCE All Share Index from Stock using 
 Geometric Mean of Prices for all Stock {Math.Pow(p1*p2*p3*...*pn, 1/(n))}
 
+On a 2nd version of the project I would put a Maven build script and some Unit Tests.
+Also package'ing in the Netbeans project.
 
 Notes:
 
